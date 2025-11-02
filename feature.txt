@@ -1,1 +1,1 @@
-some new feature added
+This is a new feature.
